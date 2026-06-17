@@ -26,39 +26,6 @@ This work builds upon pioneering works that should also be cited:
 Dandelion is distributed under the [MIT License](https://raw.githubusercontent.com/mhyeok1/dand/refs/heads/main/LICENSE).
 
 
-## Authors
-
-**Minhyeok Lee** <br>
-Ph.D. Student<br>
-Department of Chemistry, Yonsei University
-
-
-**Umit V. Ucak**<br>
-Postdoctoral Researcher<br>
-College of Pharmacy, Seoul National University
-
-
-**Jinyoung Jeong**<br>
-M.S. Student<br>
-Department of Chemistry, Yonsei University
-
-
-**Islambek Ashyrmamatov**<br>
-Ph.D. Student<br>
-College of Pharmacy, Seoul National University
-
-
-**Juyong Lee**<br>
-Associate Professor<br>
-[College of Pharmacy, Seoul National University](https://sites.google.com/view/lcbc)<br>
-
-
-**Eunji Sim**<br>
-Professor<br>
-[Department of Chemistry, Yonsei University](https://tccl.yonsei.ac.kr/)<br>
-
-
-
 
 
 
